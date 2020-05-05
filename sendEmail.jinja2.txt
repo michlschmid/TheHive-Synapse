@@ -1,0 +1,9 @@
+THE HIVE - NOTIFICATION
+
+Server Timestamp: {{ now.strftime("%d.%m.%Y %H:%M:%S") }}
+
+┌─────────────────────────────────────┐
+│              Kommentar              │
+└─────────────────────────────────────┘
+
+{{ comment }}
